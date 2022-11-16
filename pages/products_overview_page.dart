@@ -16,7 +16,7 @@ class _ProductOverviewPageState extends State<ProductOverviewPage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Color.fromARGB(255, 243, 158, 46),
-        title: Text('Tess Shop'),
+        title: const Text('Tess Webshop'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(10.0),
